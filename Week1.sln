@@ -13,6 +13,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditional
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomCalculator", "RoomCalculator\RoomCalculator.csproj", "{F44F5413-9258-4D64-A1A7-771FAFC76DBB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{75FB96EA-98A1-44EF-972E-2CE962C258FE}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopDemo1", "LoopDemo1\LoopDemo1.csproj", "{A70D1EAF-4B12-4DB7-9F21-B57A647C97C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoAgain", "GoAgain\GoAgain.csproj", "{6F43EF19-64AE-4674-8206-56CB1D09E0EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +48,14 @@ Global
 		{F44F5413-9258-4D64-A1A7-771FAFC76DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F44F5413-9258-4D64-A1A7-771FAFC76DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F44F5413-9258-4D64-A1A7-771FAFC76DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70D1EAF-4B12-4DB7-9F21-B57A647C97C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70D1EAF-4B12-4DB7-9F21-B57A647C97C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70D1EAF-4B12-4DB7-9F21-B57A647C97C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70D1EAF-4B12-4DB7-9F21-B57A647C97C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F43EF19-64AE-4674-8206-56CB1D09E0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F43EF19-64AE-4674-8206-56CB1D09E0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F43EF19-64AE-4674-8206-56CB1D09E0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F43EF19-64AE-4674-8206-56CB1D09E0EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
